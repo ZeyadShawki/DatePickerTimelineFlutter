@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.18.0
+  flutter_screenutil: ^5.8.1
+  flutter_linkify: ^5.0.2
 
 dev_dependencies:
   flutter_test:
